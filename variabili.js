@@ -132,7 +132,7 @@ fabric.disableStyleCopyPaste = false;
  * @default
  */
 fabric.enableGLFiltering = true;
-
+//test riga modificata
 /**
  * Device Pixel Ratio
  * @see https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/SettingUptheCanvas/SettingUptheCanvas.html
