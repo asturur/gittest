@@ -454,6 +454,8 @@
     whitesmoke:           '#F5F5F5',
     yellow:               '#FFFF00',
     yellowgreen:          '#9ACD32',
+    yellow2:              '#FFBB00',
+    yellowgreen2:         '#9ADD32',
     fuchsia2:          	  '#ca2c92',
     fuchsia3:          	  '#ca4c93'
   };
