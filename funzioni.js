@@ -455,7 +455,7 @@
     yellow:               '#FFFF00',
     yellowgreen:          '#9ACD32',
     fuchsia2:          	  '#ca2c92',
-    fuchsia3:          	  '#ca4c92'
+    fuchsia3:          	  '#ca4c93'
   };
 
   /**
